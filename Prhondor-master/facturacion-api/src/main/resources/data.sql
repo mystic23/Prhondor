@@ -1,0 +1,2 @@
+INSERT INTO facturas VALUES (1, 'Fermin', 'pc gamer', 123334, 3, 'calle 3', '4 octubre', 'jose', 1229093, 4, 45667, 'santiago');
+INSERT INTO facturas VALUES (2, 'rodriguez', 'lavadora', 110045, 5, 'calle 47 a norte', '7 octubre', 'luis', 100098, 6, 55667, 'santiago');
